@@ -2,7 +2,7 @@
 Przykładowy projekt napisany w języku C ze skryptem budującym i weryfikującym wyjście.
 
 ### Ocena automatyczna
-AKtualnie testy nie powiodą się ze względu na błąd wyjścia funkcji printf.
+Aktualnie testy nie powiodą się ze względu na błąd wyjścia funkcji printf.
 
 ### Setup command
 N/A
